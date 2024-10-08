@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulivarthi Sai Kiran</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-- 📫 How to reach me **pulivarthisaikiran13@gmail.com**
+- 📫 How to reach me **saikiranpulivarthi13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
